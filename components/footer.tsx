@@ -3,7 +3,7 @@ const Footer = () => {
         <footer className="bg-white border-t">
             <div className="mx-auto py-10">
                 <p className="text-center text-xs text-black">
-                    &copy; Copyright 2024 FakeStoreNameA, All rights reserved.
+                    &copy; Copyright 2024 Bendito Jejan Enterprice, All rights reserved.
                 </p>
 
             </div>
